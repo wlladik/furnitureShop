@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: #373845;
+}
+
+a:hover{
+    color: #585fcc;
+}
+
+img{
+    max-width: 100%;
+}
+
+.container{
+    padding: 0 10%;
+}
